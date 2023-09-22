@@ -27,4 +27,4 @@ I'm Shaban 👨‍💻, a software engineer with some engineering manager chops.
 </div>
 
 ### :fire: My Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shabanzo&theme=onedark&hide_border=true&border_radius=4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shabanzo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
