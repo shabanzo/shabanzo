@@ -1,6 +1,6 @@
 Hey there!
 
-I'm Shaban 👨‍💻, a software engineer with some engineering manager chops. I've been in software engineering for over a decade, including an incredible four-year stint as an engineering manager. I've been rocking Ruby on Rails for almost a decade, while also getting cozy with Node.js/Nest.js/TypeScript for the past couple of years. I consider myself a backend-heavy full-stack engineer since I've been having a blast with React.js/Typescript on the frontend for about four years. 🚀
+I'm Shaban 👨‍💻, a software engineer with some engineering manager chops. I've been in software engineering for over a decade, including an incredible four-year stint as an engineering manager. I've been rocking Ruby on Rails for a decade and getting cozy with Elixir, Python, Node.js/Nest.js/TypeScript for the past couple of years. I'm a backend-heavy full-stack engineer since I've been having a blast with React.js/Typescript on the frontend for about four years. 🚀
 
 ### :hammer_and_wrench: Languages, Frameworks, and Tools:
 <div>
